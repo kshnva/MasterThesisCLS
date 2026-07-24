@@ -1,0 +1,30 @@
+# Ignore specific large files
+
+
+# Ignore entire folders
+
+Videos/
+
+# Ignore file types
+*.avi
+*.mp4
+
+# Local-only: superseded scripts, draft notes, AI-context files
+redundant/
+
+# Local documents (thesis drafts, summaries)
+*.docx
+~$*
+
+# OS / editor / Python cruft
+.DS_Store
+__pycache__/
+*.pyc
+
+# Claude Code worktrees and repo backups
+.claude/
+*.bundle
+
+# Local-only: examiner email and presentation
+email_to_examiner.txt
+*.pptx
