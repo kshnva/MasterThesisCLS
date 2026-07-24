@@ -2,7 +2,7 @@
 
 MATLAB code for the master's thesis *How do vascular loops in cerebral circulation
 survive: endothelial electrical coupling as a loop stabilising mechanism*
-(Computational Science, University of Amsterdam).
+by Kushnava Singha (Computational Science, University of Amsterdam).
 
 The model builds a two dimensional pial arterial network on the cortical surface,
 lets vessel radii adapt to wall shear stress until they reach a steady state, and
