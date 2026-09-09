@@ -20,6 +20,7 @@ redundant/
 .DS_Store
 __pycache__/
 *.pyc
+.ipynb_checkpoints/
 
 # Claude Code worktrees and repo backups
 .claude/
